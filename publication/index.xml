@@ -5,7 +5,7 @@
     <link>https://lucabagnato.github.io/publication/</link>
       <atom:link href="https://lucabagnato.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lucabagnato.github.io/media/icon_hu0b159e5aa83d8b35704f82c4e7c32d70_991671_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>The Economic Consequences of Vote Observability: Vote-Buying and Corruption in Italian Elections</title>
+      <link>https://lucabagnato.github.io/publication/sezioni/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/sezioni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building the Nation through Schools: Mandatory Schooling and National Identity in XIX Century Italy</title>
+      <link>https://lucabagnato.github.io/publication/school/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Legacy of Fiscal Capacity: Historical Tax Collection and Citizens&#39; Tax Morale in the Long Run</title>
+      <link>https://lucabagnato.github.io/publication/canone/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/canone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Taxation to Fighting for the Nation: Historical Fiscal Capacity and Military Draft Evasion during WWI   (Job Market Paper)</title>
-      <link>https://lucabagnato.github.io/publication/preprint/</link>
+      <link>https://lucabagnato.github.io/publication/jmp/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://lucabagnato.github.io/publication/preprint/</guid>
+      <guid>https://lucabagnato.github.io/publication/jmp/</guid>
       <description></description>
     </item>
     

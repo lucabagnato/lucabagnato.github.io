@@ -5,7 +5,7 @@
     <link>https://lucabagnato.github.io/author/luca-bagnato/</link>
       <atom:link href="https://lucabagnato.github.io/author/luca-bagnato/index.xml" rel="self" type="application/rss+xml" />
     <description>Luca Bagnato</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lucabagnato.github.io/author/luca-bagnato/avatar_hud2026319eff7033b8a0beb374f499337_977699_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Luca Bagnato</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>The Economic Consequences of Vote Observability: Vote-Buying and Corruption in Italian Elections</title>
+      <link>https://lucabagnato.github.io/publication/sezioni/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/sezioni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building the Nation through Schools: Mandatory Schooling and National Identity in XIX Century Italy</title>
+      <link>https://lucabagnato.github.io/publication/school/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Legacy of Fiscal Capacity: Historical Tax Collection and Citizens&#39; Tax Morale in the Long Run</title>
+      <link>https://lucabagnato.github.io/publication/canone/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/canone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Taxation to Fighting for the Nation: Historical Fiscal Capacity and Military Draft Evasion during WWI   (Job Market Paper)</title>
-      <link>https://lucabagnato.github.io/publication/preprint/</link>
+      <link>https://lucabagnato.github.io/publication/jmp/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://lucabagnato.github.io/publication/preprint/</guid>
+      <guid>https://lucabagnato.github.io/publication/jmp/</guid>
       <description></description>
     </item>
     

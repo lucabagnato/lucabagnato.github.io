@@ -128,10 +128,34 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>The Economic Consequences of Vote Observability: Vote-Buying and Corruption in Italian Elections</title>
+      <link>https://lucabagnato.github.io/publication/sezioni/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/sezioni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building the Nation through Schools: Mandatory Schooling and National Identity in XIX Century Italy</title>
+      <link>https://lucabagnato.github.io/publication/school/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Legacy of Fiscal Capacity: Historical Tax Collection and Citizens&#39; Tax Morale in the Long Run</title>
+      <link>https://lucabagnato.github.io/publication/canone/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/canone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Taxation to Fighting for the Nation: Historical Fiscal Capacity and Military Draft Evasion during WWI   (Job Market Paper)</title>
-      <link>https://lucabagnato.github.io/publication/preprint/</link>
+      <link>https://lucabagnato.github.io/publication/jmp/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://lucabagnato.github.io/publication/preprint/</guid>
+      <guid>https://lucabagnato.github.io/publication/jmp/</guid>
       <description></description>
     </item>
     
@@ -291,7 +315,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-298156743&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-136847529&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -301,7 +325,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-298156743&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-136847529&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

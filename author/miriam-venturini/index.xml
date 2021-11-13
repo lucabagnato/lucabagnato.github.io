@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miriam Venturini | Luca Bagnato</title>
+    <link>https://lucabagnato.github.io/author/miriam-venturini/</link>
+      <atom:link href="https://lucabagnato.github.io/author/miriam-venturini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miriam Venturini</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lucabagnato.github.io/media/icon_hu0b159e5aa83d8b35704f82c4e7c32d70_991671_512x512_fill_lanczos_center_3.png</url>
+      <title>Miriam Venturini</title>
+      <link>https://lucabagnato.github.io/author/miriam-venturini/</link>
+    </image>
+    
+    <item>
+      <title>The Economic Consequences of Vote Observability: Vote-Buying and Corruption in Italian Elections</title>
+      <link>https://lucabagnato.github.io/publication/sezioni/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/sezioni/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
