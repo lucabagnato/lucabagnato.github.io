@@ -307,7 +307,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-861574932&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-973165842&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -317,7 +317,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-861574932&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-973165842&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -781,24 +781,6 @@ Three
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lucabagnato.github.io/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Luca Bagnato</title>
-      <link>https://lucabagnato.github.io/author/luca-bagnato/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lucabagnato.github.io/author/luca-bagnato/</guid>
-      <description>&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;Welcome!&lt;/p&gt;
-&lt;p&gt;I am a PhD Candidate at the Department of Economics at the University of Zurich. My research interests lie at the intersection of political economics, economic history and public economics. In my &lt;a href=&#34;https://lucabagnato.github.io/uploads/Bagnato_JMP.pdf&#34; target=&#34;_blank&#34;&gt;Job Market Paper&lt;/a&gt; I study how the historical capacity of a state to collect taxes affects citizens&#39; cultural norms and actions in a persistent way.&lt;/p&gt;
-&lt;p&gt;You can find my CV &lt;a href=&#34;https://lucabagnato.github.io/uploads/Luca_Bagnato_CV.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://yanagizawadrott.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Yanagizawa-Drott&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/pietrobiroli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pietro Biroli&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.econ.uzh.ch/en/people/faculty/casaburi.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lorenzo Casaburi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
