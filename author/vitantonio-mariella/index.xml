@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vitantonio Mariella | Luca Bagnato</title>
+    <link>https://lucabagnato.github.io/author/vitantonio-mariella/</link>
+      <atom:link href="https://lucabagnato.github.io/author/vitantonio-mariella/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vitantonio Mariella</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lucabagnato.github.io/media/icon_hu75084c61252377e5a42b47f780a45516_1093466_512x512_fill_lanczos_center_3.png</url>
+      <title>Vitantonio Mariella</title>
+      <link>https://lucabagnato.github.io/author/vitantonio-mariella/</link>
+    </image>
+    
+    <item>
+      <title>Public Investment, Agricultural Enhancement, and Structural Transformation</title>
+      <link>https://lucabagnato.github.io/publication/cavour/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://lucabagnato.github.io/publication/cavour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
